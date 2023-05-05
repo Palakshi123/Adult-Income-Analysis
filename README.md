@@ -21,7 +21,8 @@ Neural Network
 
 Each algorithm has its own strengths and weaknesses, and by applying multiple algorithms, we can compare their performances and select the best model for this specific problem.
 
-Evaluation
+## Evaluation
+
 We used precision, recall, and F1 score as evaluation metrics for the algorithms. Precision measures the proportion of true positives among all predicted positives, recall measures the proportion of true positives among all actual positives, and F1 score is the harmonic mean of precision and recall.
 
 We also used cross-validation to avoid overfitting and ensure that our models generalize well to new data.
